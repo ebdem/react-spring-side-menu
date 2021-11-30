@@ -1,0 +1,23 @@
+{
+  "name": "animated-sidebar",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["react-spring", "sidebar", "animation"],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "3.5.3",
+    "delay": "2.0.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.0",
+    "react-spring": "5.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
